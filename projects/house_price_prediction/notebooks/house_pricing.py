@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 
 # Load the dataset
-df = pd.read_csv(r"C:\Users\Usuario\Desktop\Exercise\My_house_pricing project\Data\AmesHousing.csv")
+df = pd.read_csv(r"data/AmesHousing.csv"")
 
 # Inderstand the Dataset
 
@@ -769,4 +769,5 @@ import pandas as pd
 df_results = pd.DataFrame(results)
 print("\n=== Model Comparison ===")
 print(df_results)
+
 
