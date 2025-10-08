@@ -41,6 +41,5 @@ Idiomas
 
 Contacto
 1729margarita@gmail.com
-GitHub: click aquí
 
 “El aprendizaje automático no reemplaza la curiosidad humana; la potencia.” Juan Villamil
