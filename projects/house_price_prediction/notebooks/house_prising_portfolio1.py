@@ -23,7 +23,7 @@ from sklearn.preprocessing import StandardScaler
 # 2. Load dataset
 # =====================
 
-df = pd.read_csv(r"C:\Users\Usuario\Desktop\Exercise\My_house_pricing project\Data\AmesHousing.csv")
+df = pd.read_csv(r"data/AmesHousing.csv"")
 
 # Copy dataset to work on it
 mydf = df.copy()
@@ -354,4 +354,5 @@ plt.xlabel("Importance")
 plt.ylabel("Feature")
 plt.tight_layout()
 plt.show()
+
 
