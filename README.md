@@ -40,6 +40,6 @@ Idiomas
 - Inglés (intermedio)
 
 Contacto
-1729margarita@gmail.com
+biserova.maggie@gmail.com
 
 “El aprendizaje automático no reemplaza la curiosidad humana; la potencia.” Juan Villamil
