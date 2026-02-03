@@ -90,7 +90,7 @@ Previous experience in banking as a project leader. Seeking to develop as a Juni
 
 **Contact**
 
-1729margarita@gmail.com  
+biserova.maggie@gmail.com  
 
 GitHub: [click here](https://github.com/Magy1729/MargaritaDaneva-DataScience) 
 
@@ -99,4 +99,5 @@ GitHub: [click here](https://github.com/Magy1729/MargaritaDaneva-DataScience)
 
 
 “Machine learning doesn’t replace human curiosity, it amplifies it.” Juan Villamil
+
 
